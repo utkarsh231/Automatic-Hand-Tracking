@@ -12,7 +12,7 @@ This repository contains a Python script for processing video frames and applyin
 ## Requirements
 To run the script, you need the following:
 
-- Python 3.7+
+- Python 3.12
 - Required Python libraries:
   - `numpy`
   - `matplotlib`
