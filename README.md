@@ -26,7 +26,7 @@ Install the dependencies using pip:
 pip install numpy matplotlib opencv-python Pillow mediapipe torch
 ```
 
-You also need to install to ![sam2](https://github.com/facebookresearch/sam2?tab=readme-ov-file) which is described in the main.ipynb on how to do so. 
+You also need to install to [sam2](https://github.com/facebookresearch/sam2?tab=readme-ov-file) which is described in the main.ipynb on how to do so. 
 
 ## Usage
 
