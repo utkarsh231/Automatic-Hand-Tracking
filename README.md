@@ -41,14 +41,6 @@ You also need to install to [sam2](https://github.com/facebookresearch/sam2?tab=
 3. **Run the Script**:
    Call the `process_video_with_segmentation()` function from the provided script.
 
-  `process_video_with_segmentation(
-    video_dir="/path/to/video_frames",
-    get_hand_coordinates=get_hand_coordinates,
-    predictor=predictor,
-    inference_state=inference_state,
-    output_video_path="segmented_output.mp4"
-    )
-  `
    Also, make sure to give correct file path at the beginning of Task 1  and the end of the script.
 
 4. **Output**:
